@@ -1,55 +1,57 @@
 <div align="center">
-  <!-- Cabeçalho Temático -->
+
+  <!-- BANNER 3D CYBERPUNK/DARK -->
   <img src="https://vercel.app" width="100%" />
 
-  <h1>🦇 WESLEY RAMOS 🦇</h1>
-  <p><i>"Não é quem eu sou por dentro, mas o que eu faço que me define."</i></p>
+  <br>
 
-  <!-- Badges estilo Dark Gotham -->
-  <p align="center">
-    <img src="https://shields.io" alt="Gotham">
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn">
-    </a>
-  </p>
+  <!-- CONTADOR DE VISITAS ESTILIZADO -->
+  <img src="https://komarev.com" />
+
+  <br><br>
+
+  <!-- BADGES NEON / 3D EFFECT -->
+  <img src="https://shields.io" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+
 </div>
 
-<hr>
+<br>
+<hr size="5" color="#1f242c">
+<br>
 
-## 🌌 Sobre a Batcaverna (Meu Portfólio)
-Olá! Sou o **Wesley Ramos**. Atuo desenvolvendo soluções robustas nas sombras da tecnologia. Atualmente focado em criar códigos limpos, performáticos e seguros.
-
-- ⚔️ **Missão Atual:** Dominar o ecossistema de desenvolvimento (Java, Flutter, JavaScript).
-- 🏹 **Dispositivos de Combate:** VS Code (Dark Mode), Git e Café.
-- 🦇 **Status:** Em patrulha noturna (Buscando novos desafios e projetos inovadores).
-
-<hr>
-
-## 🛠️ O Cinto de Utilidades (Tecnologias)
-Conhecimentos e ferramentas que utilizo para combater bugs no dia a dia:
-
-```css
-📁 Linguagens:   Java, JavaScript, HTML, CSS, CMake
-📁 Frameworks:   Flutter, Projetos Java modernos
-📁 Sistemas:     Git, GitHub, Automações
-```
-
-<hr>
-
-## 📊 Batcomputador (Estatísticas Corrigidas)
+## 🛡️ TECH STACK / UTILITIES
 
 <div align="center">
-  <!-- Gráficos com cores personalizadas do Batman: Fundo preto (#000), Texto cinza (#aaa), Ícones/Títulos em Amarelo (#FFD700) -->
-  
-  <!-- CARD 1: Status Geral (Usando espelho alternativo para não quebrar) -->
-  <img height="180em" src="https://vercel.app" alt="Wesley's GitHub Stats" />
-  
-  <!-- CARD 2: Idiomas mais utilizados -->
-  <img height="180em" src="https://vercel.app" alt="Top Languages" />
+  <img src="https://skillicons.dev" />
 </div>
 
-<hr>
+<br>
+<hr size="5" color="#1f242c">
+<br>
+
+## 📊 SYSTEM METRICS
 
 <div align="center">
-  <img src="https://komarev.com" alt="Views">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://vercel.app" />
+      </td>
+      <td>
+        <img height="180em" src="https://vercel.app" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<hr size="5" color="#1f242c">
+<br>
+
+<div align="center">
+  <!-- GRÁFICO DE CONTRIBUIÇÕES 3D (ATUALIZADO AUTOMATICAMENTE VIA ISOMETRIC CONTRIB) -->
+  <img src="https://vercel.app" width="100%" />
 </div>
